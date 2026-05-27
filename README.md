@@ -1,4 +1,4 @@
-# Vector Graphics Assignment
+# Vector Graphics Exercise
 
 Welcome! In this assignment, you will create a vector graphic for the web in SVG format.
 
